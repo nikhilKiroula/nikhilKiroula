@@ -40,6 +40,19 @@ and continuously improving my development skills.
 
 ---
 
+## 💼 Open to Opportunities
+
+I'm currently open to **MERN Stack / Full-Stack Development
+roles and internships** where I can contribute, learn, and
+build real-world products.
+
+If you're looking for a motivated developer to join your team,
+feel free to reach out.
+
+📩 **Email:** nikhilkiroula7@gmail.com
+🔗 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/nikhil-singh-kiroula-5343b1246/)
+
+
 ## 🛠️ Tech Stack
 
 ### Frontend
