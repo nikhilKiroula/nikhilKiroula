@@ -32,7 +32,6 @@ real-world web applications.
 I focus on writing clean code, building responsive interfaces,
 and continuously improving my development skills.
 
-- 🔭 Currently working on **ShopAI**
 - 🌱 Currently learning **TypeScript**
 - 💡 Interested in **Full-Stack Development & AI Integrations**
 - 🎯 Goal: Build production-ready applications
