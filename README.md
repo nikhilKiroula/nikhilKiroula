@@ -51,6 +51,7 @@ feel free to reach out.
 📩 **Email:** nikhilkiroula7@gmail.com
 🔗 **LinkedIn:** [Let's Connect](https://www.linkedin.com/in/nikhil-singh-kiroula-5343b1246/)
 
+---
 
 ## 🛠️ Tech Stack
 
