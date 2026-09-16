@@ -7,19 +7,14 @@
 Building modern, scalable & user-focused web applications.
 
 <br />
-
 <a href="https://portfolio-ruddy-seven-59.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-e8e0d4?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/nikhil-singh-kiroula-5343b1246/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="mailto:nikhilkiroula7@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
